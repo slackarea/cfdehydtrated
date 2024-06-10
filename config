@@ -1,0 +1,4 @@
+CONFIG_D=/etc/dehydrated/conf.d
+BASEDIR=/etc/dehydrated/lib
+WELLKNOWN="${BASEDIR}/acme-challenges"
+DOMAINS_TXT="/etc/dehydrated/domains.txt"
